@@ -8,7 +8,6 @@ class Solution:
                 new_i+=str(max(k))
             lis.append(int(new_i))
             new_i=""
-            print(lis)
         return sum(lis)
 
 
