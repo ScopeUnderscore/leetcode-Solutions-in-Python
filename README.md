@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3312-number-of-changing-keys](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3312-number-of-changing-keys) |
 ## Sorting
 |  |
 | ------- |
