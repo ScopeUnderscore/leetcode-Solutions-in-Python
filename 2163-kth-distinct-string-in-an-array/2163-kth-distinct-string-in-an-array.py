@@ -6,5 +6,4 @@ class Solution:
                 lis.append(i)
         if (k)>len(lis):
             return ""
-            print(lis)
         return lis[k-1]
