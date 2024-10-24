@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0263-ugly-number) |
+| [2083-three-divisors](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2083-three-divisors) |
 | [3227-find-missing-and-repeated-values](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Matrix
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
