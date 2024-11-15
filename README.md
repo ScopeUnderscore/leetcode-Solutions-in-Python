@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2502-sort-the-people) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3227-find-missing-and-repeated-values](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3324-split-the-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3324-split-the-array) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1899-count-items-matching-a-rule) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2502-sort-the-people) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3312-number-of-changing-keys](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3312-number-of-changing-keys) |
 ## Sorting
 |  |
