@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1603-running-sum-of-1d-array) |
 | [1899-count-items-matching-a-rule](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1899-count-items-matching-a-rule) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0263-ugly-number) |
 | [2083-three-divisors](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
