@@ -3,5 +3,6 @@ class Solution:
         k=""
         for i in words:
             k+=i[0]
-        return k[:len(words)]==s
+        print(k)
+        return k==s
         
