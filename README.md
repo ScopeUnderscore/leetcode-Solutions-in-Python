@@ -118,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1603-running-sum-of-1d-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
