@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0263-ugly-number) |
 | [2083-three-divisors](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0242-valid-anagram) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2502-sort-the-people](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
@@ -126,5 +128,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->
