@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1019-squares-of-a-sorted-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1603-running-sum-of-1d-array) |
 | [1899-count-items-matching-a-rule](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1899-count-items-matching-a-rule) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0263-ugly-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2083-three-divisors](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
