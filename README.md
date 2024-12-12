@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Matrix
 |  |
 | ------- |
