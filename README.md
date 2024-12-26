@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0136-single-number) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0069-sqrtx) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2210-find-target-indices-after-sorting-array) |
 ## String
 |  |
