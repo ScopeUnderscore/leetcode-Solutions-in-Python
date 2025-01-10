@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1603-running-sum-of-1d-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0958-sort-array-by-parity-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0242-valid-anagram) |
+| [0958-sort-array-by-parity-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1019-squares-of-a-sorted-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2210-find-target-indices-after-sorting-array) |
