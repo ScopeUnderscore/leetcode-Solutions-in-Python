@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1019-squares-of-a-sorted-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0958-sort-array-by-parity-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1019-squares-of-a-sorted-array) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0349-intersection-of-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2210-find-target-indices-after-sorting-array) |
 ## String
 |  |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0958-sort-array-by-parity-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1019-squares-of-a-sorted-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2042-maximum-product-difference-between-two-pairs) |
