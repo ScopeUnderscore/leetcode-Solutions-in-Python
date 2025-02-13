@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1899-count-items-matching-a-rule](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1899-count-items-matching-a-rule) |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2585-delete-greatest-value-in-each-row) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
