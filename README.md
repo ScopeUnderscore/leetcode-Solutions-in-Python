@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3194-find-words-containing-character](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3324-split-the-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3324-split-the-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2502-sort-the-people) |
 | [2777-find-the-distinct-difference-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2777-find-the-distinct-difference-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3324-split-the-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3324-split-the-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0861-flipping-an-image) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
