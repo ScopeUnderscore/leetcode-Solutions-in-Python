@@ -3,21 +3,23 @@ class Solution:
         """
         Do not return anything, modify arr in-place instead.
         """
-        arr1=[]
+        trigger = 0
+        # arr1=[]
         for i in range(len(arr)):
-            if arr[i]==0:
-                arr1.append(arr[i])
-                arr1.append(arr[i])
+            if arr[i]==0 and trigger == 0:
+                arr.insert(i,0)
+                arr.pop()
+                trigger = 1
+                continue
+            trigger = 0
             
                 
-            else:
-                arr1.append(arr[i])
-
-        print(arr1)
-        for i in range(len(arr)):
-            if i<=len(arr):
-                arr.insert(i,arr1[i])
-                arr.pop()
+           
+        # for i in range(len(arr)):
+        #     if i<=len(arr):
+        #         arr.insert(i,arr1[i])
+        #         # arr.pop()
+                
        
             
         
