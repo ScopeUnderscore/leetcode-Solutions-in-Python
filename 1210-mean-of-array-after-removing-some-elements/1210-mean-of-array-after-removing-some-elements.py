@@ -3,6 +3,5 @@ class Solution:
         n=len(arr)
         k=n//20
         arr.sort()
-        return sum(arr[k:(n-k)])/(n-2*k)
-
+        return (sum(arr[k:(n-k)]))/(n-2*k)
         
