@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2679-count-distinct-numbers-on-board](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2777-find-the-distinct-difference-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2777-find-the-distinct-difference-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2836-neither-minimum-nor-maximum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2502-sort-the-people) |
+| [2679-count-distinct-numbers-on-board](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2777-find-the-distinct-difference-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2777-find-the-distinct-difference-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2679-count-distinct-numbers-on-board](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2679-count-distinct-numbers-on-board) |
 | [3227-find-missing-and-repeated-values](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0861-flipping-an-image) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2679-count-distinct-numbers-on-board](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Heap (Priority Queue)
 |  |
