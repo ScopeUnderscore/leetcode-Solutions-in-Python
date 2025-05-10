@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2634-minimum-common-value](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2777-find-the-distinct-difference-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2777-find-the-distinct-difference-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1168-duplicate-zeros) |
+| [2634-minimum-common-value](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2634-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2502-sort-the-people) |
+| [2634-minimum-common-value](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2777-find-the-distinct-difference-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2777-find-the-distinct-difference-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0349-intersection-of-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2634-minimum-common-value](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2634-minimum-common-value) |
 ## String
 |  |
 | ------- |
