@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1168-duplicate-zeros) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1319-unique-number-of-occurrences](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0782-jewels-and-stones) |
+| [1319-unique-number-of-occurrences](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2163-kth-distinct-string-in-an-array) |
