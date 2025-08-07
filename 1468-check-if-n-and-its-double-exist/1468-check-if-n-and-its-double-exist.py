@@ -12,7 +12,6 @@ class Solution:
             if arr[i] * 2 in dic or arr[i]/2 in dic:
                 return True
             dic[arr[i]]=0
-            print(dic)
         return False
                 
                 
