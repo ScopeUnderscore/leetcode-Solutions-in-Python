@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1319-unique-number-of-occurrences](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1603-running-sum-of-1d-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1168-duplicate-zeros) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2634-minimum-common-value](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2634-minimum-common-value) |
 ## Hash Table
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1319-unique-number-of-occurrences) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0349-intersection-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2634-minimum-common-value](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2634-minimum-common-value) |
 ## String
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2210-find-target-indices-after-sorting-array) |
