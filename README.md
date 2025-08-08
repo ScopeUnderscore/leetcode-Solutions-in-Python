@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2634-minimum-common-value](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2634-minimum-common-value) |
 ## Hash Table
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0782-jewels-and-stones) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1899-count-items-matching-a-rule](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1899-count-items-matching-a-rule) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -225,5 +227,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
