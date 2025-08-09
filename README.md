@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1899-count-items-matching-a-rule) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2502-sort-the-people) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0861-flipping-an-image) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2679-count-distinct-numbers-on-board](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2679-count-distinct-numbers-on-board) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2847-find-maximum-number-of-string-pairs) |
