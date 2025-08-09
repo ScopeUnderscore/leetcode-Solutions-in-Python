@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2491-smallest-even-multiple](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2491-smallest-even-multiple) |
+| [2556-convert-the-temperature](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2556-convert-the-temperature) |
 | [2679-count-distinct-numbers-on-board](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2679-count-distinct-numbers-on-board) |
 | [3227-find-missing-and-repeated-values](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3367-find-the-sum-of-encrypted-integers) |
