@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0349-intersection-of-two-arrays) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0020-valid-parentheses) |
+| [0187-repeated-dna-sequences](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0782-jewels-and-stones) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0187-repeated-dna-sequences) |
 | [0861-flipping-an-image](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0861-flipping-an-image) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Divide and Conquer
@@ -241,4 +244,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
