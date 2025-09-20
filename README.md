@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0066-plus-one) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0169-majority-element) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0349-intersection-of-two-arrays) |
