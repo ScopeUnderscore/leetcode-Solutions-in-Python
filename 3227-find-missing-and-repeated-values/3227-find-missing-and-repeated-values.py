@@ -1,14 +1,31 @@
 class Solution:
     def findMissingAndRepeatedValues(self, grid: List[List[int]]) -> List[int]:
-        list1=[x for grid1 in grid for x in grid1]
-        list2=[]
-        for i in list1:
-            if list1.count(i)>1 and i not in list2:
-                list2.append(i)
-        for j in range(1,len(grid)**2+1):
-            if j not in list1:
-                list2.append(j) 
-        return list2
-                    
-                
-        
+        k=[]
+        dic={}
+        res=[]
+        for i in grid:
+            if isinstance(i,list):
+                k+=i
+        print(set(k))
+        for i in range(len(k)):
+            dic[k[i]]= dic.get(k[i],0)+1
+
+        for key, val in dic.items():
+            if val==2:
+                res.append(key)
+
+       
+
+
+
+        # for j in range(1,len(k)+1):
+        #     if j in set(k):
+        #         res.append(j)
+        # print(res)
+
+        for h in range(1,len(k)+1):
+            if h not in k:
+                res.append(h)
+        return res
+
+    
