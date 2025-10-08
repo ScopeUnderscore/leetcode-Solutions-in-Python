@@ -14,15 +14,6 @@ class Solution:
             if val==2:
                 res.append(key)
 
-       
-
-
-
-        # for j in range(1,len(k)+1):
-        #     if j in set(k):
-        #         res.append(j)
-        # print(res)
-
         for h in range(1,len(k)+1):
             if h not in k:
                 res.append(h)
