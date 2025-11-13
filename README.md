@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [4107-find-missing-elements](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/4107-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3324-split-the-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [4107-find-missing-elements](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2836-neither-minimum-nor-maximum) |
+| [4107-find-missing-elements](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/4107-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
