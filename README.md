@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1603-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1672-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1899-count-items-matching-a-rule) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/0861-flipping-an-image) |
+| [1672-richest-customer-wealth](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/1672-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/ScopeUnderscore/leetcode-Solutions-in-Python/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
